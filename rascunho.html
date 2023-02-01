@@ -1,0 +1,41 @@
+<html>
+    <script>
+        /*O aluno deverá criar um programa para informar a soma de todos os múltiplos de 3 ou 5 menores
+que determinado número*/
+    function multiplo3ou5(numero) {
+        var i = 1;
+        var total3 = [];
+        var total5 = [];
+        var total35 = 0;
+        while (numero>2){
+        /*if (numero / i == 3){
+            total3.push(numero/i);
+        }
+        if (numero / i == 5) {
+            total5.push(numero/i);
+        } else {
+
+        } i++;
+        } 
+        console.log(total3);
+        console.log(total5);*/
+
+        if (numero % 3 == 0) {
+            var quociente3 = numero/3
+            total3.push(numero/quociente3);
+        }
+        if (numero % 5 == 0) {
+            var quociente5 = numero/5
+            total5.push(numero/quociente3);
+        } else {
+
+        }
+        numero --;
+        }
+        console.log(total3);
+        console.log(total5);
+    } 
+        
+          
+    </script>
+</html>
