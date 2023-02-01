@@ -1,0 +1,32 @@
+<html>
+    <script>
+    
+       function multiplo(numero) {
+        var i = 1;
+        var total5 = [];
+        var total3 = [];
+        var total = 0;
+        while (numero > i) {
+        var multiplo5 = 5 * i;
+        var multiplo3 = 3 * i;
+        if (multiplo3 < numero) {
+            total3.push(multiplo3);
+        } 
+        if (multiplo5 < numero) {
+            total5.push(multiplo5);
+        } else {
+        
+        }
+        i++;
+        }
+        
+        function somar(item) {
+            total += item;
+        }
+        total3.forEach(somar);
+        total5.forEach(somar);
+        
+        console.log(" O valor total do somatório dos múltiplos de 3 e 5 menores que " + numero, "é igual a " +total);
+    }
+    </script>
+</html>
