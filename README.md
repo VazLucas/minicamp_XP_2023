@@ -48,8 +48,12 @@ Para selecionar alunos (devido ao número elevado de candidatos e a fim de mante
 
 ## 1 - Ordem inversa de palavras
 - Objetivo: Inverte a ordem da palavra inserida
-- Tecnologias: **HTML e JavaScript**
+- Tecnologias: **HTML e JavaScri
 
 ## 1 - Teste prático
 - Objetivo: Somar todos os múltiplos de 3 ou de 5 inferiores ao número determinado (inserido)
 - Tecnologias: **HTML e JavaScript**
+
+## 1 - Verifica número primo
+- Objetio: Verificar se o número inserido é ou não primo
+- Tecnologias: **HTML E JavaScritpt** 
