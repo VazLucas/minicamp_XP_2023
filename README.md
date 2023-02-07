@@ -79,4 +79,19 @@ Para selecionar alunos (devido ao número elevado de candidatos e a fim de mante
 ### 2 - Currículo simples
 
 - Objetivo: Exibir currículo pessoal
-- Tecnologias: **HTML**
+- Tecnologias: **HTML e CSS**
+
+### 2 - Mega Sena
+
+- Objetivo: Criar jogos da mega sena
+- Tecnologias: **HTML, CSS e JavaScript**
+
+### 2 - Teste prático
+
+- Objetivo: Criar uma calculadora que execute diversas funções (parecido ao projeto 1 - Caluladora)
+- Tecnologias: **HTML, CSS e JavaScript**
+
+### 2 - IMC
+
+- Objetivo: Encontrar o Índice de Massa Corporal a partir da inserção da altura e peso de uma pessoa, informando em qual faixa ela se encaixa
+- Tecnologias: **HTML, CSS e JavaScript**
